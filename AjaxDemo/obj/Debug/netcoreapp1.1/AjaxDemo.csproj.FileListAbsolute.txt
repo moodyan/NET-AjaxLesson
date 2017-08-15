@@ -1,0 +1,9 @@
+C:\Users\alyssamoody\Desktop\AjaxDemo\AjaxDemo\bin\Debug\netcoreapp1.1\AjaxDemo.deps.json
+C:\Users\alyssamoody\Desktop\AjaxDemo\AjaxDemo\bin\Debug\netcoreapp1.1\AjaxDemo.runtimeconfig.json
+C:\Users\alyssamoody\Desktop\AjaxDemo\AjaxDemo\bin\Debug\netcoreapp1.1\AjaxDemo.runtimeconfig.dev.json
+C:\Users\alyssamoody\Desktop\AjaxDemo\AjaxDemo\obj\Debug\netcoreapp1.1\AjaxDemo.csprojResolveAssemblyReference.cache
+C:\Users\alyssamoody\Desktop\AjaxDemo\AjaxDemo\obj\Debug\netcoreapp1.1\AjaxDemo.AssemblyInfo.cs
+C:\Users\alyssamoody\Desktop\AjaxDemo\AjaxDemo\bin\Debug\netcoreapp1.1\AjaxDemo.dll
+C:\Users\alyssamoody\Desktop\AjaxDemo\AjaxDemo\bin\Debug\netcoreapp1.1\AjaxDemo.pdb
+C:\Users\alyssamoody\Desktop\AjaxDemo\AjaxDemo\obj\Debug\netcoreapp1.1\AjaxDemo.dll
+C:\Users\alyssamoody\Desktop\AjaxDemo\AjaxDemo\obj\Debug\netcoreapp1.1\AjaxDemo.pdb
